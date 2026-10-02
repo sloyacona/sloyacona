@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Susie 👋
 
-<!--
-**sloyacona/sloyacona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer turned operator and 2x founder. I take ideas from 0 → 1 and turn them into systems that run.
 
-Here are some ideas to get you started:
+### What I do
+- **Digital transformation:** lead multi-year CRM and business process transformations (Salesforce), delivering 33% in operational savings
+- **Applied AI:** set generative AI strategy and embed AI assistants into everyday workflows, recovering 3,000+ hours a year
+- **Automation & analytics:** build workflow automations (Jira Service Management, cutting resolution time 50%) and self-service analytics on Microsoft Fabric / Power BI
+- **AI-assisted development:** building a healthcare web app hands-on with Claude Code, on HIPAA-compliant infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+- 🚀 **Founder:** building a women's health diagnostics startup; previously co-founded an EdTech startup that raised a $715K pre-seed and hit #2 on Product Hunt
+- 🤖 **Data & AI consulting:** Global Data & AI Center of Excellence at Avanade; Azure/Databricks go-to-market playbooks that drove $19M in pipeline; led a 100+ person virtual team across India and Mexico
+- ⚙️ **Engineering roots:** mechanical engineer on complex systems for national defense clients
+- 🎓 B.S. Mechanical Engineering (Gonzaga) · M.S. Engineering, Science & Technology Entrepreneurship (Notre Dame)
+- 🌎 Bilingual: English / Español
+
+### Tools
+Claude Code · Salesforce · Jira · Microsoft Fabric · Power BI · Azure · Databricks · Generative AI (Claude, ChatGPT, Gemini)
+
+📫 [LinkedIn](https://www.linkedin.com/in/susieloyacona) · [X](https://x.com/susiestartup)
